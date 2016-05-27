@@ -1,0 +1,35 @@
+{
+  "name": "iranapps-plugin-payment-iap",
+  "version": "1.0.0",
+  "description": "IranApps IAP plugin",
+  "cordova": {
+    "id": "iranapps-plugin-payment-iap",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladesign/iranapps-plugin-payment-iap.git"
+  },
+  "keywords": [
+    "iranapps",
+    "plugin",
+    "payment",
+    "IAP",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Milad Mohammadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miladesign/iranapps-plugin-payment-iap/issues"
+  },
+  "homepage": "https://github.com/miladesign/iranapps-plugin-payment-iap#readme"
+}
